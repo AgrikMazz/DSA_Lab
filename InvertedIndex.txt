@@ -1,0 +1,48 @@
+Keyword: fox
+  FileName: Files/file1.txt | Occurrences: 2
+  FileName: Files/file2.txt | Occurrences: 1
+  FileName: Files/file3.txt | Occurrences: 0
+  FileName: Files/file4.txt | Occurrences: 2
+  FileName: Files/file5.txt | Occurrences: 0
+  FileName: Files/file6.txt | Occurrences: 0
+
+Keyword: dog
+  FileName: Files/file1.txt | Occurrences: 1
+  FileName: Files/file2.txt | Occurrences: 2
+  FileName: Files/file3.txt | Occurrences: 0
+  FileName: Files/file4.txt | Occurrences: 2
+  FileName: Files/file5.txt | Occurrences: 0
+  FileName: Files/file6.txt | Occurrences: 0
+
+Keyword: quick
+  FileName: Files/file1.txt | Occurrences: 2
+  FileName: Files/file2.txt | Occurrences: 0
+  FileName: Files/file3.txt | Occurrences: 1
+  FileName: Files/file4.txt | Occurrences: 1
+  FileName: Files/file5.txt | Occurrences: 0
+  FileName: Files/file6.txt | Occurrences: 0
+
+Keyword: lazy
+  FileName: Files/file1.txt | Occurrences: 1
+  FileName: Files/file2.txt | Occurrences: 2
+  FileName: Files/file3.txt | Occurrences: 0
+  FileName: Files/file4.txt | Occurrences: 1
+  FileName: Files/file5.txt | Occurrences: 0
+  FileName: Files/file6.txt | Occurrences: 0
+
+Keyword: food
+  FileName: Files/file1.txt | Occurrences: 0
+  FileName: Files/file2.txt | Occurrences: 0
+  FileName: Files/file3.txt | Occurrences: 0
+  FileName: Files/file4.txt | Occurrences: 0
+  FileName: Files/file5.txt | Occurrences: 0
+  FileName: Files/file6.txt | Occurrences: 2
+
+Keyword: book
+  FileName: Files/file1.txt | Occurrences: 0
+  FileName: Files/file2.txt | Occurrences: 0
+  FileName: Files/file3.txt | Occurrences: 0
+  FileName: Files/file4.txt | Occurrences: 0
+  FileName: Files/file5.txt | Occurrences: 1
+  FileName: Files/file6.txt | Occurrences: 0
+

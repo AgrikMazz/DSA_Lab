@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sparsematrix.h": "c",
+        "stdio.h": "c"
+    }
+}

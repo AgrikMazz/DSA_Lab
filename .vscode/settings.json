@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "dllfunc.h": "c",
+        "linkedlist.h": "c",
+        "llarray.h": "c",
+        "linkedlistfunc.h": "c",
+        "time.h": "c",
+        "polynomial.h": "c",
+        "doublell.h": "c",
+        "graph.h": "c",
+        "array": "c",
+        "deque": "c",
+        "list": "c",
+        "vector": "c",
+        "ctype.h": "c",
+        "cmath": "c"
+    }
+}
